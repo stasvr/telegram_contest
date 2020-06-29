@@ -1,2 +1,3 @@
 # telegram_contest
-Fast solution for Telegram Data Cluster contest
+Solution for Telegram [Data Cluster contest](https://contest.com/data-clustering)
+
