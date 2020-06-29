@@ -1,3 +1,2 @@
 # telegram_contest
-Solution for Telegram [Data Cluster contest](https://contest.com/data-clustering)
-
+Docker based - solution for Telegram [Data Cluster contest](https://contest.com/docs/data_clustering)
