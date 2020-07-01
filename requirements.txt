@@ -1,0 +1,7 @@
+gensim
+tensorflow
+beautifulsoup4
+pymorphy2
+sklearn
+numpy
+pandas
