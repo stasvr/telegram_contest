@@ -3,6 +3,7 @@ Docker based - solution for Telegram [Data Cluster contest](https://contest.com/
 
 
 You can train your own models by using datasets like that https://www.kaggle.com/yutkin/corpus-of-russian-news-articles-from-lenta
+
 ( github thirdparty folder is not full version )
 
 #### build
